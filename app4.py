@@ -51,3 +51,5 @@ if __name__ == "__main__":
 # adding the fourth comment cause ya know
 
 # fifth comment but this one's on the raspberry pi woohoo!!
+
+# sixth comment to see if i can pull from the pi
